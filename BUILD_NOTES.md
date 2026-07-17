@@ -1,8 +1,4 @@
 # gridherd - Build Notes
-
-Raw notes to feed the accompanying Medium article. Written during development,
-not polished. Each phase appended after completion and sign-off.
-
 ---
 
 ## Phase 1 - Core simulation and herding demonstration
